@@ -1,9 +1,23 @@
 {
-    "last_updated": "2026-03-11 19:57",
+    "last_updated": "2026-03-11 20:37",
     "picks": [
         {
+            "ticker": "TSLA",
+            "price": 407.82,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 47.8
+        },
+        {
+            "ticker": "NVDA",
+            "price": 186.03,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 48.2
+        },
+        {
             "ticker": "GOOGL",
-            "price": 308.79,
+            "price": 308.7,
             "score": 2,
             "reason": "Price Cross SMA20",
             "rsi": 55.9
