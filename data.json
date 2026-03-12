@@ -1,12 +1,4 @@
 {
-    "last_updated": "2026-03-12 16:07",
-    "picks": [
-        {
-            "ticker": "TSLA",
-            "price": 407.82,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 47.8
-        }
-    ]
+    "last_updated": "2026-03-12 17:09",
+    "picks": []
 }
