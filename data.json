@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-03-16 16:40",
+    "last_updated": "2026-03-16 17:43",
     "picks": [
         {
             "ticker": "AAPL",
-            "price": 252.41,
+            "price": 252.46,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 22.8
+            "rsi": 22.9
         }
     ]
 }
