@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-03-17 19:39",
+    "last_updated": "2026-03-17 20:20",
     "picks": [
         {
             "ticker": "AAPL",
-            "price": 253.73,
+            "price": 254.23,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 21.2
+            "rsi": 22.3
         },
         {
             "ticker": "GOOGL",
-            "price": 310.56,
+            "price": 310.92,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 47.8
+            "rsi": 48.2
         }
     ]
 }
