@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-03-19 22:02",
+    "last_updated": "2026-03-20 13:59",
     "picks": [
         {
             "ticker": "AAPL",
-            "price": 248.96,
+            "price": 247.61,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.7
+            "rsi": 23.3
         },
         {
-            "ticker": "AMD",
-            "price": 205.27,
+            "ticker": "META",
+            "price": 594.04,
             "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 53.8
+            "reason": "Deeply Oversold",
+            "rsi": 28.3
+        },
+        {
+            "ticker": "NFLX",
+            "price": 90.74,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 25.9
         }
     ]
 }
