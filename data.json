@@ -1,12 +1,19 @@
 {
-    "last_updated": "2026-03-23 15:16",
+    "last_updated": "2026-03-23 16:13",
     "picks": [
         {
+            "ticker": "MSFT",
+            "price": 384.52,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 29.7
+        },
+        {
             "ticker": "AMZN",
-            "price": 212.36,
+            "price": 211.4,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 53.8
+            "rsi": 52.8
         }
     ]
 }
