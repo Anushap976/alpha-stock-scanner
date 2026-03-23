@@ -1,13 +1,6 @@
 {
-    "last_updated": "2026-03-20 22:02",
+    "last_updated": "2026-03-23 14:14",
     "picks": [
-        {
-            "ticker": "AAPL",
-            "price": 247.99,
-            "score": 3,
-            "reason": "Deeply Oversold, High Volume",
-            "rsi": 23.6
-        },
         {
             "ticker": "META",
             "price": 593.66,
@@ -16,18 +9,18 @@
             "rsi": 28.2
         },
         {
-            "ticker": "GOOGL",
-            "price": 301.0,
+            "ticker": "AMZN",
+            "price": 212.02,
             "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 43.9
+            "reason": "Price Cross SMA20",
+            "rsi": 53.5
         },
         {
             "ticker": "NFLX",
-            "price": 91.82,
+            "price": 92.46,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.5
+            "rsi": 28.7
         }
     ]
 }
