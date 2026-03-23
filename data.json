@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-03-23 19:54",
+    "last_updated": "2026-03-23 20:31",
     "picks": [
         {
             "ticker": "MSFT",
-            "price": 383.88,
+            "price": 383.0,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.8
-        },
-        {
-            "ticker": "NFLX",
-            "price": 91.82,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 28.5
+            "rsi": 27.4
         }
     ]
 }
