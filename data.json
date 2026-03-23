@@ -1,4 +1,26 @@
 {
-    "last_updated": "2026-03-23 17:09",
-    "picks": []
+    "last_updated": "2026-03-23 18:03",
+    "picks": [
+        {
+            "ticker": "AAPL",
+            "price": 247.99,
+            "score": 3,
+            "reason": "Deeply Oversold, High Volume",
+            "rsi": 23.6
+        },
+        {
+            "ticker": "MSFT",
+            "price": 383.04,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 27.5
+        },
+        {
+            "ticker": "GOOGL",
+            "price": 301.0,
+            "score": 2,
+            "reason": "Low RSI, High Volume",
+            "rsi": 43.9
+        }
+    ]
 }
