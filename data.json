@@ -1,33 +1,33 @@
 {
-    "last_updated": "2026-03-25 18:36",
+    "last_updated": "2026-03-25 19:30",
     "picks": [
         {
             "ticker": "AMZN",
-            "price": 211.71,
+            "price": 211.35,
             "score": 3,
             "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 41.6
+            "rsi": 41.1
         },
         {
             "ticker": "MSFT",
-            "price": 372.74,
+            "price": 370.27,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 20.7
+            "rsi": 11.4
         },
         {
             "ticker": "META",
-            "price": 597.52,
+            "price": 595.62,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.8
+            "rsi": 26.9
         },
         {
             "ticker": "NFLX",
-            "price": 92.25,
+            "price": 92.14,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.7
+            "rsi": 27.2
         }
     ]
 }
