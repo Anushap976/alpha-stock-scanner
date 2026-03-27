@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-03-27 19:47",
+    "last_updated": "2026-03-27 20:20",
     "picks": [
         {
             "ticker": "META",
-            "price": 525.64,
+            "price": 525.72,
             "score": 3,
             "reason": "Deeply Oversold, High Volume",
             "rsi": 18.0
         },
         {
             "ticker": "MSFT",
-            "price": 356.67,
+            "price": 356.77,
             "score": 2,
             "reason": "Deeply Oversold",
             "rsi": 8.7
         },
         {
             "ticker": "GOOGL",
-            "price": 274.21,
+            "price": 274.34,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 21.9
+            "rsi": 22.0
         }
     ]
 }
