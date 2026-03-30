@@ -1,26 +1,40 @@
 {
-    "last_updated": "2026-03-27 22:15",
+    "last_updated": "2026-03-30 14:24",
     "picks": [
         {
-            "ticker": "META",
-            "price": 525.72,
-            "score": 3,
-            "reason": "Deeply Oversold, High Volume",
-            "rsi": 18.0
+            "ticker": "AAPL",
+            "price": 247.77,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 29.0
         },
         {
             "ticker": "MSFT",
-            "price": 356.77,
+            "price": 362.35,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 8.7
+            "rsi": 16.9
+        },
+        {
+            "ticker": "NVDA",
+            "price": 167.51,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 27.6
         },
         {
             "ticker": "GOOGL",
-            "price": 274.34,
+            "price": 273.7,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 22.0
+            "rsi": 20.8
+        },
+        {
+            "ticker": "META",
+            "price": 533.25,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 18.4
         }
     ]
 }
