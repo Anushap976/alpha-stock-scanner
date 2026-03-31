@@ -1,26 +1,33 @@
 {
-    "last_updated": "2026-03-31 19:39",
+    "last_updated": "2026-03-31 20:23",
     "picks": [
         {
             "ticker": "MSFT",
-            "price": 371.68,
+            "price": 370.17,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.6
+            "rsi": 26.1
         },
         {
             "ticker": "AMD",
-            "price": 203.48,
+            "price": 203.43,
             "score": 2,
             "reason": "Price Cross SMA20",
             "rsi": 49.1
         },
         {
+            "ticker": "META",
+            "price": 572.13,
+            "score": 2,
+            "reason": "Low RSI, High Volume",
+            "rsi": 32.0
+        },
+        {
             "ticker": "NFLX",
-            "price": 95.88,
+            "price": 96.15,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 53.1
+            "rsi": 53.9
         }
     ]
 }
