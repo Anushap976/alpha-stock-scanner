@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-04-01 14:27",
+    "last_updated": "2026-04-01 15:52",
     "picks": [
         {
             "ticker": "AAPL",
-            "price": 254.18,
+            "price": 254.61,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 47.7
+            "rsi": 48.4
         },
         {
             "ticker": "MSFT",
-            "price": 371.35,
+            "price": 372.12,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.4
+            "rsi": 29.2
         },
         {
             "ticker": "AMZN",
-            "price": 210.63,
+            "price": 212.51,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 51.0
+            "rsi": 52.6
         }
     ]
 }
