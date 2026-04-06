@@ -1,4 +1,12 @@
 {
-    "last_updated": "2026-04-03 22:00",
-    "picks": []
+    "last_updated": "2026-04-06 14:09",
+    "picks": [
+        {
+            "ticker": "MSFT",
+            "price": 372.51,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 28.8
+        }
+    ]
 }
