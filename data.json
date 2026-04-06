@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-04-06 18:36",
+    "last_updated": "2026-04-06 19:39",
     "picks": [
         {
             "ticker": "MSFT",
-            "price": 372.88,
+            "price": 372.33,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 29.0
+            "rsi": 28.7
         },
         {
             "ticker": "GOOGL",
-            "price": 300.27,
+            "price": 300.11,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 46.5
+            "rsi": 46.4
         }
     ]
 }
