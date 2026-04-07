@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-04-07 15:56",
+    "last_updated": "2026-04-07 16:57",
     "picks": [
         {
             "ticker": "MSFT",
-            "price": 368.86,
+            "price": 370.75,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.5
-        },
-        {
-            "ticker": "TSLA",
-            "price": 339.38,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 29.7
+            "rsi": 28.3
         }
     ]
 }
