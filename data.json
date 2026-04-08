@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-04-08 17:18",
+    "last_updated": "2026-04-08 18:42",
     "picks": [
         {
             "ticker": "META",
-            "price": 622.4,
+            "price": 615.22,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 51.5
+            "rsi": 49.9
         }
     ]
 }
