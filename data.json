@@ -1,12 +1,19 @@
 {
-    "last_updated": "2026-04-08 19:49",
+    "last_updated": "2026-04-08 20:27",
     "picks": [
         {
             "ticker": "META",
-            "price": 612.94,
+            "price": 612.42,
             "score": 3,
             "reason": "Price Cross SMA20, High Volume",
-            "rsi": 49.4
+            "rsi": 49.2
+        },
+        {
+            "ticker": "PLTR",
+            "price": 140.76,
+            "score": 2,
+            "reason": "Low RSI, High Volume",
+            "rsi": 40.7
         }
     ]
 }
