@@ -1,12 +1,4 @@
 {
-    "last_updated": "2026-04-09 22:02",
-    "picks": [
-        {
-            "ticker": "PLTR",
-            "price": 130.49,
-            "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 32.5
-        }
-    ]
+    "last_updated": "2026-04-10 14:15",
+    "picks": []
 }
