@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-04-13 16:01",
+    "last_updated": "2026-04-13 17:15",
     "picks": [
         {
             "ticker": "MSFT",
-            "price": 379.41,
+            "price": 381.43,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 47.0
+            "rsi": 48.7
         },
         {
             "ticker": "PLTR",
-            "price": 133.18,
+            "price": 133.92,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.5
+            "rsi": 29.3
         }
     ]
 }
