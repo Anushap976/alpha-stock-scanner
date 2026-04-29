@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-04-29 16:52",
+    "last_updated": "2026-04-29 18:06",
     "picks": [
         {
             "ticker": "NFLX",
-            "price": 92.0,
+            "price": 92.25,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 29.6
+            "rsi": 29.9
         }
     ]
 }
