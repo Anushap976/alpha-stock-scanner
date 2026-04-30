@@ -1,12 +1,4 @@
 {
-    "last_updated": "2026-04-30 16:43",
-    "picks": [
-        {
-            "ticker": "META",
-            "price": 606.42,
-            "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 43.9
-        }
-    ]
+    "last_updated": "2026-04-30 17:58",
+    "picks": []
 }
