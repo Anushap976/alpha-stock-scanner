@@ -1,4 +1,12 @@
 {
-    "last_updated": "2026-04-30 22:33",
-    "picks": []
+    "last_updated": "2026-05-01 14:15",
+    "picks": [
+        {
+            "ticker": "PLTR",
+            "price": 142.02,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 61.2
+        }
+    ]
 }
