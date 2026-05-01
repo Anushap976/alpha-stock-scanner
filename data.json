@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-05-01 18:12",
+    "last_updated": "2026-05-01 19:38",
     "picks": [
         {
             "ticker": "NFLX",
-            "price": 92.53,
+            "price": 92.22,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 29.5
+            "rsi": 29.2
         },
         {
             "ticker": "PLTR",
-            "price": 144.58,
+            "price": 144.34,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 63.4
+            "rsi": 63.2
         }
     ]
 }
