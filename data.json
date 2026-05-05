@@ -1,12 +1,19 @@
 {
-    "last_updated": "2026-05-04 22:15",
+    "last_updated": "2026-05-05 16:50",
     "picks": [
         {
-            "ticker": "NFLX",
-            "price": 91.02,
+            "ticker": "META",
+            "price": 601.64,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 18.7
+            "rsi": 27.9
+        },
+        {
+            "ticker": "NFLX",
+            "price": 88.07,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 12.1
         }
     ]
 }
