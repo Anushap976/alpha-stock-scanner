@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-05-05 22:39",
+    "last_updated": "2026-05-06 15:25",
     "picks": [
         {
+            "ticker": "NVDA",
+            "price": 206.38,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 56.9
+        },
+        {
             "ticker": "META",
-            "price": 604.96,
+            "price": 612.53,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.5
+            "rsi": 29.5
         },
         {
             "ticker": "NFLX",
-            "price": 87.89,
+            "price": 87.93,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 12.0
-        },
-        {
-            "ticker": "PLTR",
-            "price": 135.91,
-            "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 43.4
+            "rsi": 11.8
         }
     ]
 }
