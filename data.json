@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-05-12 19:20",
+    "last_updated": "2026-05-12 20:54",
     "picks": [
         {
             "ticker": "META",
-            "price": 600.64,
+            "price": 603.0,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 24.2
-        },
-        {
-            "ticker": "PLTR",
-            "price": 133.96,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 29.7
+            "rsi": 25.4
         }
     ]
 }
