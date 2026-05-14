@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-05-14 17:14",
+    "last_updated": "2026-05-14 19:08",
     "picks": [
         {
             "ticker": "META",
-            "price": 619.36,
+            "price": 617.62,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.7
+            "rsi": 27.8
         }
     ]
 }
