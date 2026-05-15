@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-05-15 17:00",
+    "last_updated": "2026-05-15 18:45",
     "picks": [
         {
             "ticker": "MSFT",
-            "price": 424.65,
+            "price": 426.09,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 49.9
+            "rsi": 50.8
         },
         {
             "ticker": "META",
-            "price": 615.45,
+            "price": 617.9,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.6
+            "rsi": 26.1
         }
     ]
 }
