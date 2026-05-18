@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-05-18 16:19",
+    "last_updated": "2026-05-18 18:14",
     "picks": [
         {
-            "ticker": "AMZN",
-            "price": 265.71,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 57.6
-        },
-        {
             "ticker": "META",
-            "price": 610.02,
+            "price": 612.2,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.9
+            "rsi": 26.4
         }
     ]
 }
