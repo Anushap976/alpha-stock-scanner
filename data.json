@@ -1,26 +1,12 @@
 {
-    "last_updated": "2026-05-21 18:13",
+    "last_updated": "2026-05-21 20:11",
     "picks": [
         {
-            "ticker": "NFLX",
-            "price": 89.86,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 43.3
-        },
-        {
-            "ticker": "PLTR",
-            "price": 137.99,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 41.0
-        },
-        {
             "ticker": "AMZN",
-            "price": 268.77,
+            "price": 268.46,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 50.6
+            "rsi": 50.2
         }
     ]
 }
