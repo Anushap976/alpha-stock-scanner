@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-05-26 22:25",
+    "last_updated": "2026-05-27 16:34",
     "picks": [
         {
-            "ticker": "GOOGL",
-            "price": 388.88,
+            "ticker": "AMZN",
+            "price": 271.58,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 50.3
+            "rsi": 46.4
         }
     ]
 }
