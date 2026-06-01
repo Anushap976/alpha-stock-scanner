@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-05-29 22:44",
+    "last_updated": "2026-06-01 18:34",
     "picks": [
         {
-            "ticker": "GOOGL",
-            "price": 380.34,
+            "ticker": "NVDA",
+            "price": 224.35,
             "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 35.0
+            "reason": "Price Cross SMA20",
+            "rsi": 53.9
         }
     ]
 }
