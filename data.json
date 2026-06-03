@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-06-03 17:58",
+    "last_updated": "2026-06-03 21:18",
     "picks": [
         {
             "ticker": "GOOGL",
-            "price": 360.33,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 14.5
+            "price": 358.99,
+            "score": 3,
+            "reason": "Deeply Oversold, High Volume",
+            "rsi": 14.2
         },
         {
             "ticker": "META",
-            "price": 622.5,
+            "price": 622.98,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 52.6
+            "rsi": 52.8
         },
         {
             "ticker": "NFLX",
-            "price": 81.53,
+            "price": 81.52,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.3
+            "rsi": 28.2
         }
     ]
 }
