@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-06-04 18:31",
+    "last_updated": "2026-06-04 20:34",
     "picks": [
         {
-            "ticker": "NVDA",
-            "price": 220.07,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 37.3
+            "ticker": "NFLX",
+            "price": 81.56,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 29.8
         }
     ]
 }
