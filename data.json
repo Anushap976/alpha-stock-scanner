@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-06-05 19:23",
+    "last_updated": "2026-06-05 21:01",
     "picks": [
         {
-            "ticker": "GOOGL",
-            "price": 364.42,
+            "ticker": "META",
+            "price": 593.0,
             "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 28.7
+            "reason": "Low RSI, High Volume",
+            "rsi": 42.8
         }
     ]
 }
