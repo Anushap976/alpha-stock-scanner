@@ -1,12 +1,26 @@
 {
-    "last_updated": "2026-06-05 22:21",
+    "last_updated": "2026-06-08 16:46",
     "picks": [
         {
-            "ticker": "META",
-            "price": 593.0,
+            "ticker": "AMD",
+            "price": 490.9,
             "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 42.8
+            "reason": "Price Cross SMA20",
+            "rsi": 63.0
+        },
+        {
+            "ticker": "GOOGL",
+            "price": 362.8,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 28.0
+        },
+        {
+            "ticker": "NFLX",
+            "price": 82.04,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 16.5
         }
     ]
 }
