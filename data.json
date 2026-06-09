@@ -1,26 +1,12 @@
 {
-    "last_updated": "2026-06-08 22:52",
+    "last_updated": "2026-06-09 15:51",
     "picks": [
         {
-            "ticker": "AMD",
-            "price": 490.33,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 62.9
-        },
-        {
-            "ticker": "GOOGL",
-            "price": 363.31,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 28.1
-        },
-        {
             "ticker": "NFLX",
-            "price": 82.64,
+            "price": 81.98,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 20.0
+            "rsi": 19.4
         }
     ]
 }
