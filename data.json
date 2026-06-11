@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-06-10 23:10",
+    "last_updated": "2026-06-11 16:50",
     "picks": [
         {
             "ticker": "GOOGL",
-            "price": 356.38,
+            "price": 348.41,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.5
+            "rsi": 26.1
         },
         {
             "ticker": "AMZN",
-            "price": 238.0,
+            "price": 236.71,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.1
+            "rsi": 22.0
         },
         {
             "ticker": "NFLX",
-            "price": 82.0,
+            "price": 81.05,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 24.5
+            "rsi": 14.7
         }
     ]
 }
