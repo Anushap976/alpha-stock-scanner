@@ -1,16 +1,16 @@
 {
-    "last_updated": "2026-06-17 19:10",
+    "last_updated": "2026-06-17 21:20",
     "picks": [
         {
             "ticker": "AMZN",
-            "price": 238.31,
+            "price": 237.5,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 22.6
+            "rsi": 22.3
         },
         {
             "ticker": "NFLX",
-            "price": 76.93,
+            "price": 76.96,
             "score": 2,
             "reason": "Deeply Oversold",
             "rsi": 19.6
