@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-18 23:05",
+    "last_updated": "2026-06-19 15:57",
     "picks": [
         {
             "ticker": "MSFT",
@@ -16,11 +16,25 @@
             "rsi": 22.2
         },
         {
+            "ticker": "AAPL",
+            "price": 298.01,
+            "score": 2,
+            "reason": "Low RSI, High Volume",
+            "rsi": 39.1
+        },
+        {
             "ticker": "AMZN",
             "price": 244.39,
             "score": 2,
             "reason": "Low RSI, High Volume",
             "rsi": 31.1
+        },
+        {
+            "ticker": "META",
+            "price": 577.22,
+            "score": 2,
+            "reason": "Low RSI, High Volume",
+            "rsi": 36.4
         },
         {
             "ticker": "PLTR",
