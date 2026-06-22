@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-22 20:19",
+    "last_updated": "2026-06-22 22:18",
     "picks": [
         {
             "ticker": "NFLX",
@@ -7,6 +7,13 @@
             "score": 3,
             "reason": "Deeply Oversold, High Volume",
             "rsi": 17.4
+        },
+        {
+            "ticker": "MSFT",
+            "price": 367.34,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 9.3
         },
         {
             "ticker": "GOOGL",
