@@ -1,33 +1,26 @@
 {
-    "last_updated": "2026-06-22 22:18",
+    "last_updated": "2026-06-23 15:44",
     "picks": [
         {
-            "ticker": "NFLX",
-            "price": 72.88,
-            "score": 3,
-            "reason": "Deeply Oversold, High Volume",
-            "rsi": 17.4
-        },
-        {
             "ticker": "MSFT",
-            "price": 367.34,
+            "price": 372.96,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 9.3
+            "rsi": 16.1
         },
         {
-            "ticker": "GOOGL",
-            "price": 349.68,
+            "ticker": "NFLX",
+            "price": 72.98,
             "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 36.4
+            "reason": "Deeply Oversold",
+            "rsi": 20.4
         },
         {
             "ticker": "PLTR",
-            "price": 119.5,
+            "price": 118.56,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 14.7
+            "rsi": 16.8
         }
     ]
 }
