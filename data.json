@@ -1,26 +1,33 @@
 {
-    "last_updated": "2026-06-24 15:31",
+    "last_updated": "2026-06-24 17:28",
     "picks": [
         {
             "ticker": "MSFT",
-            "price": 374.65,
+            "price": 371.07,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 20.2
+            "rsi": 19.0
+        },
+        {
+            "ticker": "META",
+            "price": 557.16,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 29.8
         },
         {
             "ticker": "NFLX",
-            "price": 72.37,
+            "price": 71.96,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 21.5
+            "rsi": 21.0
         },
         {
             "ticker": "PLTR",
-            "price": 115.13,
+            "price": 112.9,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 19.3
+            "rsi": 18.4
         }
     ]
 }
