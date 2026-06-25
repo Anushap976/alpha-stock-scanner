@@ -1,47 +1,47 @@
 {
-    "last_updated": "2026-06-25 19:27",
+    "last_updated": "2026-06-25 21:12",
     "picks": [
         {
             "ticker": "AAPL",
-            "price": 277.02,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 23.6
+            "price": 275.15,
+            "score": 3,
+            "reason": "Deeply Oversold, High Volume",
+            "rsi": 22.9
         },
         {
             "ticker": "MSFT",
-            "price": 352.48,
+            "price": 352.83,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 15.2
+            "rsi": 15.3
         },
         {
             "ticker": "AMZN",
-            "price": 227.45,
+            "price": 227.01,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 29.8
+            "rsi": 29.6
         },
         {
             "ticker": "META",
-            "price": 545.93,
+            "price": 542.87,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.9
+            "rsi": 25.4
         },
         {
             "ticker": "NFLX",
-            "price": 72.07,
+            "price": 70.9,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 21.7
+            "rsi": 19.5
         },
         {
             "ticker": "PLTR",
-            "price": 107.02,
+            "price": 107.27,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 16.5
+            "rsi": 16.6
         }
     ]
 }
