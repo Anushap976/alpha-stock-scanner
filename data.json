@@ -1,47 +1,33 @@
 {
-    "last_updated": "2026-07-01 15:38",
+    "last_updated": "2026-07-01 17:32",
     "picks": [
         {
-            "ticker": "AAPL",
-            "price": 295.02,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 52.5
+            "ticker": "META",
+            "price": 617.23,
+            "score": 3,
+            "reason": "Price Cross SMA20, High Volume",
+            "rsi": 62.4
         },
         {
             "ticker": "GOOGL",
-            "price": 360.27,
+            "price": 358.65,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 52.3
+            "rsi": 51.4
         },
         {
             "ticker": "AMZN",
-            "price": 242.08,
+            "price": 243.93,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 53.0
-        },
-        {
-            "ticker": "META",
-            "price": 621.21,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 63.2
-        },
-        {
-            "ticker": "NFLX",
-            "price": 73.0,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 29.1
+            "rsi": 54.2
         },
         {
             "ticker": "PLTR",
-            "price": 127.06,
+            "price": 126.95,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 47.3
+            "rsi": 47.2
         }
     ]
 }
