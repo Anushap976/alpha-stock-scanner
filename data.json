@@ -1,33 +1,26 @@
 {
-    "last_updated": "2026-07-01 19:20",
+    "last_updated": "2026-07-01 20:57",
     "picks": [
         {
             "ticker": "META",
-            "price": 615.7,
+            "price": 612.91,
             "score": 3,
             "reason": "Price Cross SMA20, High Volume",
-            "rsi": 62.1
+            "rsi": 61.5
         },
         {
             "ticker": "GOOGL",
-            "price": 360.28,
+            "price": 361.21,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 52.3
+            "rsi": 52.8
         },
         {
             "ticker": "AMZN",
-            "price": 242.82,
+            "price": 241.7,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 53.5
-        },
-        {
-            "ticker": "PLTR",
-            "price": 126.88,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 47.1
+            "rsi": 52.7
         }
     ]
 }
