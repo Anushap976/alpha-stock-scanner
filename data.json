@@ -1,33 +1,12 @@
 {
-    "last_updated": "2026-07-03 22:45",
+    "last_updated": "2026-07-06 16:16",
     "picks": [
         {
-            "ticker": "NFLX",
-            "price": 77.65,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 42.9
-        },
-        {
-            "ticker": "AAPL",
-            "price": 308.63,
+            "ticker": "TSLA",
+            "price": 417.89,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 58.3
-        },
-        {
-            "ticker": "MSFT",
-            "price": 390.49,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 50.1
-        },
-        {
-            "ticker": "PLTR",
-            "price": 129.3,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 48.5
+            "rsi": 53.5
         }
     ]
 }
