@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-07-08 19:54",
+    "last_updated": "2026-07-08 21:00",
     "picks": [
         {
             "ticker": "NVDA",
-            "price": 204.59,
+            "price": 204.12,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 47.2
+            "rsi": 46.6
         }
     ]
 }
