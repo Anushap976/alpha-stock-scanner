@@ -1,4 +1,12 @@
 {
-    "last_updated": "2026-07-16 19:48",
-    "picks": []
+    "last_updated": "2026-07-16 20:37",
+    "picks": [
+        {
+            "ticker": "NFLX",
+            "price": 74.35,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 59.7
+        }
+    ]
 }
