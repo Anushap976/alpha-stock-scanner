@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-07-17 16:01",
+    "last_updated": "2026-07-17 17:19",
     "picks": [
         {
             "ticker": "NFLX",
-            "price": 68.71,
+            "price": 68.78,
             "score": 2,
             "reason": "Low RSI, High Volume",
-            "rsi": 37.5
+            "rsi": 37.7
         }
     ]
 }
