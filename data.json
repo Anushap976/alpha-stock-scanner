@@ -1,12 +1,4 @@
 {
-    "last_updated": "2026-07-20 15:07",
-    "picks": [
-        {
-            "ticker": "GOOGL",
-            "price": 356.68,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 51.8
-        }
-    ]
+    "last_updated": "2026-07-20 16:41",
+    "picks": []
 }
