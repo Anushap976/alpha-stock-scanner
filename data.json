@@ -1,4 +1,12 @@
 {
-    "last_updated": "2026-07-21 15:00",
-    "picks": []
+    "last_updated": "2026-07-21 16:36",
+    "picks": [
+        {
+            "ticker": "AMD",
+            "price": 537.66,
+            "score": 3,
+            "reason": "Low RSI, Price Cross SMA20",
+            "rsi": 42.9
+        }
+    ]
 }
