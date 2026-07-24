@@ -1,26 +1,19 @@
 {
-    "last_updated": "2026-07-24 17:50",
+    "last_updated": "2026-07-24 19:05",
     "picks": [
         {
             "ticker": "TSLA",
-            "price": 309.09,
+            "price": 309.02,
             "score": 2,
             "reason": "Deeply Oversold",
             "rsi": 15.3
         },
         {
             "ticker": "GOOGL",
-            "price": 319.75,
+            "price": 319.86,
             "score": 2,
             "reason": "Deeply Oversold",
             "rsi": 26.5
-        },
-        {
-            "ticker": "NFLX",
-            "price": 70.18,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 29.4
         }
     ]
 }
