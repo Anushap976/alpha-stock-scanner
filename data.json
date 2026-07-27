@@ -1,26 +1,26 @@
 {
-    "last_updated": "2026-07-27 21:29",
+    "last_updated": "2026-07-27 22:34",
     "picks": [
         {
             "ticker": "MSFT",
             "price": 389.1,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 50.2
+            "rsi": 51.4
         },
         {
-            "ticker": "NFLX",
-            "price": 70.4,
+            "ticker": "TSLA",
+            "price": 309.22,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 29.7
+            "rsi": 15.3
         },
         {
             "ticker": "PLTR",
             "price": 131.53,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 46.5
+            "rsi": 48.8
         }
     ]
 }
