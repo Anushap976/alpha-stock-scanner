@@ -1,26 +1,19 @@
 {
-    "last_updated": "2026-07-29 15:06",
+    "last_updated": "2026-07-29 16:37",
     "picks": [
         {
+            "ticker": "NFLX",
+            "price": 72.97,
+            "score": 3,
+            "reason": "Low RSI, Price Cross SMA20",
+            "rsi": 41.9
+        },
+        {
             "ticker": "TSLA",
-            "price": 303.09,
+            "price": 300.83,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 9.4
-        },
-        {
-            "ticker": "AMD",
-            "price": 434.57,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 29.6
-        },
-        {
-            "ticker": "AMZN",
-            "price": 228.07,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 28.3
+            "rsi": 17.2
         }
     ]
 }
