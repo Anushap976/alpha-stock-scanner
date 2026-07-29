@@ -1,12 +1,26 @@
 {
-    "last_updated": "2026-07-28 22:45",
+    "last_updated": "2026-07-29 15:06",
     "picks": [
         {
             "ticker": "TSLA",
-            "price": 307.44,
+            "price": 303.09,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 18.1
+            "rsi": 9.4
+        },
+        {
+            "ticker": "AMD",
+            "price": 434.57,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 29.6
+        },
+        {
+            "ticker": "AMZN",
+            "price": 228.07,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 28.3
         }
     ]
 }
