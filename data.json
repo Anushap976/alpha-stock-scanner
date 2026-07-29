@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-07-29 16:37",
+    "last_updated": "2026-07-29 17:52",
     "picks": [
         {
-            "ticker": "NFLX",
-            "price": 72.97,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 41.9
-        },
-        {
             "ticker": "TSLA",
-            "price": 300.83,
+            "price": 303.15,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 17.2
+            "rsi": 17.5
         }
     ]
 }
