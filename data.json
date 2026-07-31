@@ -1,26 +1,33 @@
 {
-    "last_updated": "2026-07-30 22:52",
+    "last_updated": "2026-07-31 15:15",
     "picks": [
         {
-            "ticker": "META",
-            "price": 539.03,
-            "score": 3,
-            "reason": "Deeply Oversold, High Volume",
-            "rsi": 13.7
-        },
-        {
             "ticker": "TSLA",
-            "price": 308.85,
+            "price": 307.96,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 15.1
+            "rsi": 16.5
+        },
+        {
+            "ticker": "GOOGL",
+            "price": 350.39,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 49.1
         },
         {
             "ticker": "AMZN",
-            "price": 235.5,
+            "price": 271.78,
             "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 40.6
+            "reason": "Price Cross SMA20",
+            "rsi": 64.1
+        },
+        {
+            "ticker": "META",
+            "price": 547.46,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 18.8
         }
     ]
 }
