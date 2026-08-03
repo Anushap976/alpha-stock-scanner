@@ -1,26 +1,33 @@
 {
-    "last_updated": "2026-08-03 19:05",
+    "last_updated": "2026-08-03 20:37",
     "picks": [
         {
             "ticker": "TSLA",
-            "price": 323.89,
+            "price": 322.08,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 24.6
+            "rsi": 23.6
         },
         {
             "ticker": "NVDA",
-            "price": 208.57,
+            "price": 206.64,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 47.4
+            "rsi": 45.7
         },
         {
             "ticker": "NFLX",
-            "price": 72.83,
+            "price": 73.33,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 47.9
+            "rsi": 49.4
+        },
+        {
+            "ticker": "PLTR",
+            "price": 125.65,
+            "score": 2,
+            "reason": "Low RSI, High Volume",
+            "rsi": 39.5
         }
     ]
 }
