@@ -1,33 +1,33 @@
 {
-    "last_updated": "2026-08-04 15:21",
+    "last_updated": "2026-08-04 17:08",
     "picks": [
         {
             "ticker": "PLTR",
-            "price": 158.8,
+            "price": 162.46,
             "score": 3,
             "reason": "Price Cross SMA20, High Volume",
-            "rsi": 67.5
+            "rsi": 69.1
         },
         {
             "ticker": "TSLA",
-            "price": 324.88,
+            "price": 325.87,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.4
+            "rsi": 25.9
         },
         {
             "ticker": "AMD",
-            "price": 520.08,
+            "price": 526.0,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 48.6
+            "rsi": 49.5
         },
         {
             "ticker": "META",
-            "price": 582.55,
+            "price": 587.28,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.5
+            "rsi": 26.1
         }
     ]
 }
