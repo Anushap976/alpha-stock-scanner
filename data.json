@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-08-05 22:16",
+    "last_updated": "2026-08-06 15:09",
     "picks": [
         {
             "ticker": "TSLA",
-            "price": 321.55,
+            "price": 322.53,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 26.2
-        },
-        {
-            "ticker": "META",
-            "price": 588.77,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 28.9
+            "rsi": 28.7
         }
     ]
 }
