@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-08-13 16:23",
+    "last_updated": "2026-08-13 17:25",
     "picks": [
         {
             "ticker": "AAPL",
-            "price": 303.55,
+            "price": 303.17,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.8
+            "rsi": 27.4
         },
         {
             "ticker": "TSLA",
-            "price": 334.42,
+            "price": 336.55,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 63.9
+            "rsi": 64.9
+        },
+        {
+            "ticker": "AMD",
+            "price": 494.39,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 45.2
         }
     ]
 }
