@@ -1,19 +1,4 @@
 {
-    "last_updated": "2026-08-18 21:56",
-    "picks": [
-        {
-            "ticker": "AAPL",
-            "price": 310.03,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 28.2
-        },
-        {
-            "ticker": "META",
-            "price": 543.67,
-            "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 39.5
-        }
-    ]
+    "last_updated": "2026-08-19 13:39",
+    "picks": []
 }
