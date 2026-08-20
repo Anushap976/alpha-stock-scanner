@@ -1,12 +1,4 @@
 {
-    "last_updated": "2026-08-19 22:01",
-    "picks": [
-        {
-            "ticker": "AAPL",
-            "price": 316.83,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 37.6
-        }
-    ]
+    "last_updated": "2026-08-20 13:41",
+    "picks": []
 }
