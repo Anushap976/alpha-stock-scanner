@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-08-21 15:30",
+    "last_updated": "2026-08-21 16:00",
     "picks": [
         {
             "ticker": "GOOGL",
-            "price": 344.4,
+            "price": 344.86,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.1
+            "rsi": 25.7
         },
         {
             "ticker": "AMZN",
-            "price": 258.8,
+            "price": 259.68,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 24.6
+            "rsi": 25.1
         }
     ]
 }
