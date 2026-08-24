@@ -1,19 +1,4 @@
 {
-    "last_updated": "2026-08-24 17:04",
-    "picks": [
-        {
-            "ticker": "GOOGL",
-            "price": 351.11,
-            "score": 4,
-            "reason": "Deeply Oversold, Price Cross SMA20",
-            "rsi": 28.2
-        },
-        {
-            "ticker": "AMZN",
-            "price": 263.16,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 35.1
-        }
-    ]
+    "last_updated": "2026-08-24 17:39",
+    "picks": []
 }
