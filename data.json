@@ -1,26 +1,19 @@
 {
-    "last_updated": "2026-08-26 14:29",
+    "last_updated": "2026-08-26 16:01",
     "picks": [
         {
             "ticker": "META",
-            "price": 573.83,
+            "price": 575.45,
             "score": 3,
             "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 43.7
+            "rsi": 44.4
         },
         {
             "ticker": "AAPL",
-            "price": 311.87,
+            "price": 312.41,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 49.6
-        },
-        {
-            "ticker": "AMD",
-            "price": 483.24,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 48.1
+            "rsi": 50.4
         }
     ]
 }
