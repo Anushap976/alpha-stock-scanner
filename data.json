@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-08-27 00:52",
+    "last_updated": "2026-08-27 22:44",
     "picks": [
         {
-            "ticker": "META",
-            "price": 576.14,
-            "score": 4,
-            "reason": "Low RSI, Price Cross SMA20, High Volume",
-            "rsi": 44.7
+            "ticker": "NVDA",
+            "price": 227.98,
+            "score": 3,
+            "reason": "Price Cross SMA20, High Volume",
+            "rsi": 53.5
         },
         {
-            "ticker": "AAPL",
-            "price": 313.45,
+            "ticker": "AMZN",
+            "price": 256.26,
             "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 51.7
+            "reason": "Deeply Oversold",
+            "rsi": 29.8
         }
     ]
 }
