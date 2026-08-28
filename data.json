@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-08-27 22:44",
+    "last_updated": "2026-08-28 22:51",
     "picks": [
         {
-            "ticker": "NVDA",
-            "price": 227.98,
+            "ticker": "META",
+            "price": 578.02,
             "score": 3,
-            "reason": "Price Cross SMA20, High Volume",
-            "rsi": 53.5
-        },
-        {
-            "ticker": "AMZN",
-            "price": 256.26,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 29.8
+            "reason": "Low RSI, Price Cross SMA20",
+            "rsi": 43.8
         }
     ]
 }
