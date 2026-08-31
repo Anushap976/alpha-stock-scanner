@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-08-31 19:21",
+    "last_updated": "2026-08-31 23:14",
     "picks": [
         {
-            "ticker": "GOOGL",
-            "price": 338.41,
+            "ticker": "NVDA",
+            "price": 220.78,
             "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 26.7
-        },
-        {
-            "ticker": "AMZN",
-            "price": 259.07,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 28.5
+            "reason": "Price Cross SMA20",
+            "rsi": 52.5
         }
     ]
 }
