@@ -1,12 +1,19 @@
 {
-    "last_updated": "2026-08-28 22:51",
+    "last_updated": "2026-08-31 19:21",
     "picks": [
         {
-            "ticker": "META",
-            "price": 578.02,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 43.8
+            "ticker": "GOOGL",
+            "price": 338.41,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 26.7
+        },
+        {
+            "ticker": "AMZN",
+            "price": 259.07,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 28.5
         }
     ]
 }
