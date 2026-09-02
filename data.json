@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-09-01 22:18",
+    "last_updated": "2026-09-02 16:57",
     "picks": [
         {
-            "ticker": "META",
-            "price": 578.54,
+            "ticker": "NVDA",
+            "price": 225.94,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 49.9
+            "rsi": 50.5
         }
     ]
 }
