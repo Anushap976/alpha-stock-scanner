@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-09-03 19:29",
+    "last_updated": "2026-09-03 21:50",
     "picks": [
         {
             "ticker": "AMD",
-            "price": 456.85,
+            "price": 456.16,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.8
+            "rsi": 27.7
         },
         {
             "ticker": "PLTR",
-            "price": 183.8,
+            "price": 182.53,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 57.5
+            "rsi": 56.6
         }
     ]
 }
