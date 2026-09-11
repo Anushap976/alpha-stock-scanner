@@ -1,4 +1,12 @@
 {
-    "last_updated": "2026-09-10 23:24",
-    "picks": []
+    "last_updated": "2026-09-11 16:51",
+    "picks": [
+        {
+            "ticker": "MSFT",
+            "price": 494.97,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 57.1
+        }
+    ]
 }
