@@ -1,12 +1,26 @@
 {
-    "last_updated": "2026-09-17 17:25",
+    "last_updated": "2026-09-17 20:28",
     "picks": [
         {
             "ticker": "NVDA",
-            "price": 218.83,
+            "price": 219.34,
             "score": 3,
             "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 42.2
+            "rsi": 42.7
+        },
+        {
+            "ticker": "PLTR",
+            "price": 176.24,
+            "score": 3,
+            "reason": "Low RSI, Price Cross SMA20",
+            "rsi": 41.8
+        },
+        {
+            "ticker": "MSFT",
+            "price": 497.75,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 46.1
         }
     ]
 }
