@@ -1,26 +1,12 @@
 {
-    "last_updated": "2026-09-17 22:59",
+    "last_updated": "2026-09-18 16:54",
     "picks": [
         {
-            "ticker": "NVDA",
-            "price": 219.34,
+            "ticker": "NFLX",
+            "price": 71.95,
             "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 42.7
-        },
-        {
-            "ticker": "PLTR",
-            "price": 176.24,
-            "score": 3,
-            "reason": "Low RSI, Price Cross SMA20",
-            "rsi": 41.8
-        },
-        {
-            "ticker": "MSFT",
-            "price": 497.75,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 46.1
+            "reason": "Deeply Oversold, High Volume",
+            "rsi": 28.0
         }
     ]
 }
