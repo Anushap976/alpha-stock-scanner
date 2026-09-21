@@ -1,12 +1,19 @@
 {
-    "last_updated": "2026-09-21 18:26",
+    "last_updated": "2026-09-21 22:06",
     "picks": [
         {
-            "ticker": "AMZN",
-            "price": 258.58,
+            "ticker": "MSFT",
+            "price": 501.61,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 48.7
+            "rsi": 46.9
+        },
+        {
+            "ticker": "AMZN",
+            "price": 258.45,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 48.5
         }
     ]
 }
