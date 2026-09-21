@@ -1,26 +1,12 @@
 {
-    "last_updated": "2026-09-18 23:36",
+    "last_updated": "2026-09-21 18:26",
     "picks": [
         {
-            "ticker": "NFLX",
-            "price": 71.79,
-            "score": 3,
-            "reason": "Deeply Oversold, High Volume",
-            "rsi": 27.8
-        },
-        {
-            "ticker": "MSFT",
-            "price": 493.78,
-            "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 38.9
-        },
-        {
             "ticker": "AMZN",
-            "price": 253.71,
+            "price": 258.58,
             "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 36.2
+            "reason": "Price Cross SMA20",
+            "rsi": 48.7
         }
     ]
 }
