@@ -1,4 +1,19 @@
 {
-    "last_updated": "2026-09-23 17:42",
-    "picks": []
+    "last_updated": "2026-09-23 20:41",
+    "picks": [
+        {
+            "ticker": "MSFT",
+            "price": 500.59,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 52.2
+        },
+        {
+            "ticker": "NFLX",
+            "price": 71.36,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 25.4
+        }
+    ]
 }
