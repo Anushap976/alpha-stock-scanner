@@ -1,12 +1,19 @@
 {
-    "last_updated": "2026-09-24 17:43",
+    "last_updated": "2026-09-24 20:48",
     "picks": [
         {
+            "ticker": "GOOGL",
+            "price": 342.36,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 50.1
+        },
+        {
             "ticker": "NFLX",
-            "price": 71.75,
+            "price": 71.72,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 26.7
+            "rsi": 26.6
         }
     ]
 }
