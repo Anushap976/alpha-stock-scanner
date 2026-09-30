@@ -1,4 +1,19 @@
 {
-    "last_updated": "2026-09-29 22:29",
-    "picks": []
+    "last_updated": "2026-09-30 18:15",
+    "picks": [
+        {
+            "ticker": "AAPL",
+            "price": 336.65,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 60.9
+        },
+        {
+            "ticker": "GOOGL",
+            "price": 349.31,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 61.9
+        }
+    ]
 }
