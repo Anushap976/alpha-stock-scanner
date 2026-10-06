@@ -1,33 +1,19 @@
 {
-    "last_updated": "2026-10-02 22:12",
+    "last_updated": "2026-10-06 01:39",
     "picks": [
         {
-            "ticker": "AAPL",
-            "price": 333.69,
+            "ticker": "AMZN",
+            "price": 251.4,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 50.7
-        },
-        {
-            "ticker": "TSLA",
-            "price": 370.59,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 57.6
-        },
-        {
-            "ticker": "GOOGL",
-            "price": 343.5,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 45.0
+            "rsi": 54.2
         },
         {
             "ticker": "NFLX",
-            "price": 67.06,
+            "price": 67.5,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 15.6
+            "rsi": 19.9
         }
     ]
 }
