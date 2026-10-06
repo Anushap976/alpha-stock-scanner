@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-10-06 01:39",
+    "last_updated": "2026-10-06 18:44",
     "picks": [
         {
-            "ticker": "AMZN",
-            "price": 251.4,
-            "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 54.2
-        },
-        {
             "ticker": "NFLX",
-            "price": 67.5,
+            "price": 68.19,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 19.9
+            "rsi": 25.1
         }
     ]
 }
