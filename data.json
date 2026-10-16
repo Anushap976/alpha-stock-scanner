@@ -1,4 +1,12 @@
 {
-    "last_updated": "2026-10-16 17:08",
-    "picks": []
+    "last_updated": "2026-10-16 19:55",
+    "picks": [
+        {
+            "ticker": "AMD",
+            "price": 528.31,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 29.1
+        }
+    ]
 }
