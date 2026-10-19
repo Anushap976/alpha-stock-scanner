@@ -1,12 +1,19 @@
 {
-    "last_updated": "2026-10-16 22:28",
+    "last_updated": "2026-10-19 18:57",
     "picks": [
         {
-            "ticker": "AMD",
-            "price": 528.75,
+            "ticker": "AMZN",
+            "price": 262.21,
             "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 29.1
+            "reason": "Price Cross SMA20",
+            "rsi": 64.0
+        },
+        {
+            "ticker": "PLTR",
+            "price": 194.61,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 56.8
         }
     ]
 }
