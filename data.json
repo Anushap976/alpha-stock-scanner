@@ -1,19 +1,12 @@
 {
-    "last_updated": "2026-10-19 22:48",
+    "last_updated": "2026-10-20 17:43",
     "picks": [
         {
-            "ticker": "AMZN",
-            "price": 262.45,
-            "score": 3,
-            "reason": "Price Cross SMA20, High Volume",
-            "rsi": 64.1
-        },
-        {
-            "ticker": "PLTR",
-            "price": 194.15,
+            "ticker": "TSLA",
+            "price": 374.38,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 56.4
+            "rsi": 61.1
         }
     ]
 }
