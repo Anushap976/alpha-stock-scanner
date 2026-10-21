@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-10-21 17:51",
+    "last_updated": "2026-10-21 20:55",
     "picks": [
         {
             "ticker": "NFLX",
-            "price": 65.69,
+            "price": 65.04,
             "score": 2,
             "reason": "Low RSI, High Volume",
-            "rsi": 43.3
+            "rsi": 41.6
         },
         {
             "ticker": "PLTR",
-            "price": 199.45,
+            "price": 201.72,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 57.7
+            "rsi": 59.2
         }
     ]
 }
