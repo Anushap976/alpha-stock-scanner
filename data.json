@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-10-21 23:53",
+    "last_updated": "2026-10-22 17:49",
     "picks": [
         {
-            "ticker": "NFLX",
-            "price": 65.04,
+            "ticker": "AMD",
+            "price": 511.81,
             "score": 2,
-            "reason": "Low RSI, High Volume",
-            "rsi": 41.6
+            "reason": "Deeply Oversold",
+            "rsi": 24.0
         },
         {
-            "ticker": "PLTR",
-            "price": 201.72,
+            "ticker": "META",
+            "price": 646.55,
             "score": 2,
-            "reason": "Price Cross SMA20",
-            "rsi": 59.2
+            "reason": "Deeply Oversold",
+            "rsi": 30.0
         }
     ]
 }
