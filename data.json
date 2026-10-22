@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-10-22 17:49",
+    "last_updated": "2026-10-22 20:51",
     "picks": [
         {
-            "ticker": "AMD",
-            "price": 511.81,
+            "ticker": "NVDA",
+            "price": 212.21,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 24.0
+            "rsi": 29.7
+        },
+        {
+            "ticker": "AMD",
+            "price": 507.93,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 23.6
         },
         {
             "ticker": "META",
-            "price": 646.55,
+            "price": 648.85,
             "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 30.0
+            "reason": "Low RSI, High Volume",
+            "rsi": 30.3
         }
     ]
 }
