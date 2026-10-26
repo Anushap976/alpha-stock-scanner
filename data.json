@@ -1,40 +1,40 @@
 {
-    "last_updated": "2026-10-26 18:59",
+    "last_updated": "2026-10-26 23:04",
     "picks": [
         {
+            "ticker": "META",
+            "price": 630.56,
+            "score": 3,
+            "reason": "Deeply Oversold, High Volume",
+            "rsi": 23.3
+        },
+        {
             "ticker": "MSFT",
-            "price": 532.02,
+            "price": 532.6,
             "score": 2,
             "reason": "Price Cross SMA20",
-            "rsi": 51.6
+            "rsi": 51.9
         },
         {
             "ticker": "NVDA",
-            "price": 216.24,
+            "price": 216.0,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 29.0
+            "rsi": 28.7
         },
         {
             "ticker": "AMD",
-            "price": 531.84,
+            "price": 531.28,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.8
+            "rsi": 25.6
         },
         {
             "ticker": "GOOGL",
-            "price": 316.95,
+            "price": 316.8,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 23.4
-        },
-        {
-            "ticker": "META",
-            "price": 632.68,
-            "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 23.5
+            "rsi": 23.3
         }
     ]
 }
