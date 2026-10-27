@@ -1,19 +1,19 @@
 {
-    "last_updated": "2026-10-27 18:31",
+    "last_updated": "2026-10-27 22:32",
     "picks": [
         {
             "ticker": "META",
-            "price": 622.25,
+            "price": 620.19,
             "score": 3,
             "reason": "Deeply Oversold, High Volume",
-            "rsi": 24.4
+            "rsi": 24.1
         },
         {
             "ticker": "GOOGL",
-            "price": 321.62,
+            "price": 320.58,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 25.9
+            "rsi": 24.6
         }
     ]
 }
