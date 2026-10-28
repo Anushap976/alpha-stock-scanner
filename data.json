@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-10-28 18:37",
+    "last_updated": "2026-10-28 22:50",
     "picks": [
         {
             "ticker": "META",
-            "price": 613.38,
+            "price": 612.49,
+            "score": 3,
+            "reason": "Deeply Oversold, High Volume",
+            "rsi": 23.2
+        },
+        {
+            "ticker": "GOOGL",
+            "price": 324.89,
             "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 23.4
+            "reason": "Low RSI, High Volume",
+            "rsi": 30.8
         },
         {
             "ticker": "NFLX",
-            "price": 61.78,
+            "price": 61.99,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 23.9
+            "rsi": 24.1
         }
     ]
 }
