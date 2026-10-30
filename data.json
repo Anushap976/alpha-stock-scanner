@@ -1,33 +1,40 @@
 {
-    "last_updated": "2026-10-29 23:00",
+    "last_updated": "2026-10-30 18:22",
     "picks": [
         {
+            "ticker": "NVDA",
+            "price": 202.07,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 29.6
+        },
+        {
             "ticker": "GOOGL",
-            "price": 283.82,
-            "score": 3,
-            "reason": "Deeply Oversold, High Volume",
-            "rsi": 15.6
+            "price": 278.0,
+            "score": 2,
+            "reason": "Deeply Oversold",
+            "rsi": 13.9
         },
         {
             "ticker": "AMZN",
-            "price": 243.79,
+            "price": 238.07,
             "score": 2,
             "reason": "Low RSI, High Volume",
-            "rsi": 34.1
+            "rsi": 32.5
         },
         {
             "ticker": "META",
-            "price": 624.52,
+            "price": 615.41,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 27.8
+            "rsi": 17.7
         },
         {
             "ticker": "NFLX",
-            "price": 62.05,
+            "price": 61.94,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 26.2
+            "rsi": 24.7
         }
     ]
 }
