@@ -1,33 +1,54 @@
 {
-    "last_updated": "2026-11-05 20:26",
+    "last_updated": "2026-11-06 01:01",
     "picks": [
         {
+            "ticker": "AAPL",
+            "price": 349.51,
+            "score": 3,
+            "reason": "Price Cross SMA20, High Volume",
+            "rsi": 55.8
+        },
+        {
+            "ticker": "MSFT",
+            "price": 555.8,
+            "score": 3,
+            "reason": "Price Cross SMA20, High Volume",
+            "rsi": 57.1
+        },
+        {
+            "ticker": "AMZN",
+            "price": 266.03,
+            "score": 3,
+            "reason": "Price Cross SMA20, High Volume",
+            "rsi": 57.2
+        },
+        {
             "ticker": "AMD",
-            "price": 414.86,
+            "price": 488.78,
             "score": 2,
             "reason": "Low RSI, High Volume",
-            "rsi": 33.9
+            "rsi": 38.3
         },
         {
             "ticker": "GOOGL",
-            "price": 284.29,
+            "price": 288.93,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 21.7
+            "rsi": 20.9
         },
         {
             "ticker": "META",
-            "price": 605.97,
+            "price": 630.0,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 21.4
+            "rsi": 21.0
         },
         {
             "ticker": "PLTR",
-            "price": 155.1,
+            "price": 171.7,
             "score": 2,
             "reason": "Deeply Oversold",
-            "rsi": 28.1
+            "rsi": 29.0
         }
     ]
 }
