@@ -1,12 +1,26 @@
 {
-    "last_updated": "2026-11-12 20:37",
+    "last_updated": "2026-11-13 01:27",
     "picks": [
         {
             "ticker": "NVDA",
-            "price": 163.5,
+            "price": 173.73,
             "score": 3,
             "reason": "Deeply Oversold, High Volume",
-            "rsi": 23.8
+            "rsi": 26.4
+        },
+        {
+            "ticker": "TSLA",
+            "price": 390.84,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 55.2
+        },
+        {
+            "ticker": "AMD",
+            "price": 552.9,
+            "score": 2,
+            "reason": "Price Cross SMA20",
+            "rsi": 55.1
         }
     ]
 }
