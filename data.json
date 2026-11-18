@@ -1,11 +1,11 @@
 {
-    "last_updated": "2026-11-17 21:28",
+    "last_updated": "2026-11-18 03:03",
     "picks": [
         {
             "ticker": "NVDA",
             "price": 155.46,
-            "score": 2,
-            "reason": "Deeply Oversold",
+            "score": 3,
+            "reason": "Deeply Oversold, High Volume",
             "rsi": 16.3
         },
         {
