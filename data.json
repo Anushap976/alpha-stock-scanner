@@ -1,19 +1,26 @@
 {
-    "last_updated": "2026-11-21 01:53",
+    "last_updated": "2026-11-24 00:32",
     "picks": [
         {
-            "ticker": "NVDA",
-            "price": 145.98,
+            "ticker": "AAPL",
+            "price": 349.08,
             "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 16.5
+            "reason": "Price Cross SMA20",
+            "rsi": 63.3
         },
         {
-            "ticker": "PLTR",
-            "price": 153.68,
+            "ticker": "TSLA",
+            "price": 385.46,
             "score": 2,
-            "reason": "Deeply Oversold",
-            "rsi": 27.0
+            "reason": "Price Cross SMA20",
+            "rsi": 46.9
+        },
+        {
+            "ticker": "NVDA",
+            "price": 165.05,
+            "score": 2,
+            "reason": "Low RSI, High Volume",
+            "rsi": 35.2
         }
     ]
 }
